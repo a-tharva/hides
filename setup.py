@@ -7,7 +7,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory/"README.md").read_text()
 
 classifiers = [
-    "Development Status :: 1 - init",
+    "Development Status :: 1 - Planning",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
