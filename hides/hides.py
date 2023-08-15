@@ -1,4 +1,5 @@
 import argparse
+from hides import __title__, __version__
 
 
 def main() -> None:
@@ -15,6 +16,8 @@ def main() -> None:
     if args.version:
         print(f"{__title__} version {__version__}")
         return
+    
+    print(f"-f {args.file}")
 
 
 if __name__ == '__main__':
