@@ -1,9 +1,9 @@
 # HIDES
 ```
 H I D E S
-| |	| | |
-| |	| | Sign
-| |	| Encrypt
+| | | | |
+| | | | Sign
+| | | Encrypt
 | | Decrypt
 | Inspect  
 Hash
